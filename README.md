@@ -9,6 +9,8 @@ Dataset :
 
 The data scientists at BigMart have collected 2013 sales data for 1559 products across 10 stores in different cities. Also, certain attributes of each product and store have been defined.
 
+Shape - (8523 x 12)
+
 Languages and libraries:
 
 This project uses python3, sklearn, numpy, pandas, xgboost in jupyter notebook(Anaconda Distribution).
