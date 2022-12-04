@@ -15,4 +15,4 @@ This project uses python3, sklearn, numpy, pandas, xgboost in jupyter notebook(A
 
 Models used:
  
- 1.XGBRegressor and linear regression.
+ 1. XGBRegressor and linear regression.
