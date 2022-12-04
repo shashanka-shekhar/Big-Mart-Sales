@@ -11,7 +11,7 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 
 Languages and libraries:
 
-This project uses python3, sklearn, numpy, pandas, xgboost in jupyter notebook.
+This project uses python3, sklearn, numpy, pandas, xgboost in jupyter notebook(Anaconda Distribution).
 
 Models used:
  
